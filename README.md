@@ -1,2 +1,2 @@
 # test
-this is a cat: ![](cat.jpg)
+this is a cat: ![](pic/cat.jpg)
